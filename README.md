@@ -36,7 +36,7 @@
 - [x] Main Menu
     - [x] add game state
     - [x] game state
-# The game start at game state 1, when the mouse is pressed and the game state set 1 is it switches to 2 and when time reaches zero it switches to game state 1 and score = 0 so two states trigger
+Note : The game start at game state 1, when the mouse is pressed and the game state set 1 is it switches to 2 and when time reaches zero it switches to game state 1 and score = 0 so two states trigger
 - [x] Finishing touches
     - [x] Center text to recommend to click
 
